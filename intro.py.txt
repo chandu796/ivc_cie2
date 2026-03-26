@@ -1,0 +1,5 @@
+print("hello")
+print("my name is ivar")
+print("i am from class 1")
+print("section a")
+print("usn 0069")
